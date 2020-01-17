@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicOS</string>
+    <string name="username">Username ...</string>
+    <string name="password">Password ...</string>
+    <string name="rePassword">Retype Password ...</string>
+    <string name="email">Email ...</string>
+    <string name="signIn">SIGN IN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="no_account_register_here">No account? Register here!</string>
+    <string name="registerButton">REGISTER</string>
+    <string name="sign_in_here">Already have an account? Sign In here!</string>
+    <string name="appLogo">logoImage</string>
+    <string name="enter_email">Enter your email address here:</string>
+    <string name="next">NEXT</string>
+    <string name="new_password">New Password ...</string>
+    <string name="retype_password">Retype new Password ...</string>
+    <string name="song1">Drake - God\'s Plan</string>
+    <string name="sia_helium">Sia - Chandelier</string>
+    <string name="tovelo_habits">ToveLo - Habits</string>
+    <string name="irina_barbat">Irina Rimes - In locul meu</string>
+    <string name="halsey_without">Halsey - Without me</string>
+    <string name="motans_nascut">Queen - Bohemian Rhapsody</string>
+</resources>
